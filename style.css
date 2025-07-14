@@ -276,7 +276,7 @@ footer .credit p a{
         display: block;
         padding-left: 12px;
         margin: auto;
-        height: 110px;
+        height: 85px;
     }
     .nav-brand{
         text-align: center;
@@ -286,6 +286,7 @@ footer .credit p a{
     .nav-menu{
         text-align: center;
         padding-left: 4px;
+        font-size: 1px;
     }
     .nav-menu li{
         margin-left: 0;
@@ -295,7 +296,8 @@ footer .credit p a{
         font-size: 15px;
     }
     .nav-menu .btn-reg{
-        padding: 12px 15px;
+        padding: 10px 14px;
+        font-size: 11px;
     }
 
     main{
